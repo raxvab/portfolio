@@ -4,7 +4,6 @@
 
 Welcome to my personal portfolio website! This site serves as a showcase for my skills, projects, and professional experience. It’s designed to give you a clear view of what I do and how you can contact me.
 
-![Portfolio Screenshot](./assets/portfolio_screenshot.png)
 
 ---
 
