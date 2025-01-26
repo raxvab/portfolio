@@ -171,7 +171,7 @@ export const projects = [
         Classes.Status.complete,
         ["typescript", "next", "react", "tailwind css", "formspree"],
         "projects/portfolio.png",
-        "https://www.linkedin.com/in/whyybhav/",
+        "https://raxvab.github.io/portfolio/",
         "https://github.com/raxvab"
     ),
     new Classes.Project(
