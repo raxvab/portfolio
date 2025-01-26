@@ -13,8 +13,7 @@ export const userInfo = {
             <br />
             What sets me apart is my commitment to continuous learning and problem-solving. I have solved over 1,000 problems on competitive coding platforms, which has sharpened my understanding of data structures and algorithms—a skill that I believe is critical in crafting efficient solutions. Beyond technical expertise, I bring strong soft skills, including leadership, cross-team communication, and technical writing, ensuring seamless collaboration and delivery.
             <br /><br />
-            When I'm not coding, I'm either snapping photos, vibing to music, or hanging out with
-            my parrot, who's convinced he's the real star here.
+            When I'm not coding, I'm either snapping photos, vibing to music, or watching movies and implementing the cinematics myself.
         </>
     ),
     role: "Full-Stack Developer",
